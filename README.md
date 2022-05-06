@@ -1,12 +1,12 @@
 # YAAT - Yet Another Android Template
 
-[![Use this template](https://img.shields.io/badge/from-yaat-brightgreen?logo=dropbox)](https://github.com/pizzamarinara/yaat/generate) ![License](https://img.shields.io/github/license/pizzamarinara/yaat.svg) ![Language](https://img.shields.io/github/languages/top/pizzamarinara/yaat?color=blue&logo=kotlin)
+[![Use this template](https://img.shields.io/badge/from-yaat-brightgreen?logo=dropbox)](https://github.com/PizzaMarinara/yaat/generate) ![License](https://img.shields.io/github/license/PizzaMarinara/yaat) ![Language](https://img.shields.io/github/languages/top/PizzaMarinara/yaat?color=blue&logo=kotlin)
 
 Just wanted to share my own version of an **Android/Kotlin** project template, with a few base classes/interfaces and a bit of a package structure.
 
 ## How to use 👣
 
-Just click on [![Use this template](https://img.shields.io/badge/-Use%20this%20template-brightgreen)](https://github.com/pizzamarinara/yaat/generate) button to create a new repo starting from this template.
+Just click on [![Use this template](https://img.shields.io/badge/-Use%20this%20template-brightgreen)](https://github.com/PizzaMarinara/yaat/generate) button to create a new repo starting from this template.
 
 Once created don't forget to update the:
 - [App ID](buildSrc/src/main/java/Libs.kt)
